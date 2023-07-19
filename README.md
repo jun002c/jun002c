@@ -1,7 +1,9 @@
 ### Hey There!
 
-I'm Jun, an aspiring AI dev. and/or game dev. I received the General Educational Development diploma and am currently awaiting my college admissions.
-I am currently participating in the Florida Hacks with IBM.
+I'm Jun, an aspiring AI dev. and/or game dev. I received the General Educational Development diploma.
+
+Georgia Tech '26 CS Major
+
 
 
 <p align=center>
