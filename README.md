@@ -1,12 +1,17 @@
 <h1 align="center">I see you've clicked on my profile :P</h1>
 
 
-<div align="center">
+<div align="left">
     <p>
         I'm Jun, an AI/ML and cybersec enthusiast, and an esports fanatic. I'm a CS major @ Georgia Tech! <br>
-        Currently interested in Generative AI, along with pentesting Windows Defense vulnerabilities :) <br>
+        I'm currently building nyanro!! The waitlisting is now live at <a href="https://www.nyanro.space">nyanro.space</a>! <br>
+        Exhaustively trying to bring nyanro's platform's figma wireframe to life!!<br>
+        If you want to talk or have any questions abt nyanro, shoot me at jun00c[at]nyanro[dot]space or jun00c on discord!! <br>
         <br>
-        I also (used to) stream - mainly Valorant - and make music too! (Riot, notice me!!! T^T) 
+        <br>
+        Besides nyanro, I'm also interested in Generative AI, along with pentesting Windows Defense vulnerabilities :) <br>
+        <br>
+        I also (used to) stream - mainly Valorant - and make music too! (Twitch, notice me!!! T^T)
     </p>
 </div>
 <p align="center">
@@ -45,6 +50,7 @@
 <div align="center">
   <p align="left">
     - <a href="https://www.linkedin.com/in/junhyuk-hur/" alt="LinkedIn link"> LinkedIn </a> <br>
+    - <a href="https://www.nyanro.space"> nyanro </a> (join the waitlist!!!!) <br>
     - <a href="https://www.twitch.tv/jun00c" alt="Twitch link"> Twitch </a> <br>
     - <a href="https://soundcloud.com/jun-chung-592447168" alt="SoundCloud link"> SoundCloud </a> <br>
   </p>
