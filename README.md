@@ -50,10 +50,13 @@
   
 <div align="center">
   <p align="left">
-    - <a href="https://www.linkedin.com/in/junhyuk-hur/" alt="LinkedIn link"> LinkedIn </a> <br>
+    - <a href="https://www.x.com/jun002c"> x/twitter </a> <br>
+    - <a href="https://www.linkedin.com/in/junhyuk-hur/"> linkedin </a> <br>
+    - <a href="https://www.instagram.com/jun002c"> instagram </a> <br>
+    - <a href="https://www.twitch.tv/jun00c"> twitch </a> <br>
+    - <a href="https://soundcloud.com/jun-chung-592447168"> soundcloud </a> <br>
+    - <a href="https://instalockd.jun002c.xyz"> instalockd </a> <br>
     - <a href="https://www.nyanro.space"> nyanro </a> (join the waitlist!!!!) <br>
-    - <a href="https://www.twitch.tv/jun00c" alt="Twitch link"> Twitch </a> <br>
-    - <a href="https://soundcloud.com/jun-chung-592447168" alt="SoundCloud link"> SoundCloud </a> <br>
   </p>
   <a href='https://ko-fi.com/E1E11HCGDQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
