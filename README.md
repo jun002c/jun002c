@@ -3,7 +3,7 @@
 
 <div align="left">
     <p>
-        i'm Jun, an AI/ML and cybersec enthusiast, and an esports fanatic. I'm a CS @ Georgia Tech! <br>
+        i'm Jun, an AI/ML and cybersec enthusiast, and an esports fanatic. i'm a CS @ Georgia Tech! <br>
         i'm currently building nyanro!! a platform for small indie creators to get exposure.<br>
         also working on a valorant version of kalshi... it's live at <a href="https://instalockd.jun002c.xyz"></a> <br> 
         if you want to talk or have any questions, shoot me at jun18shadow@gmail.com or jun002c on discord!! <br>
