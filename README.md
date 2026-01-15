@@ -3,15 +3,15 @@
 
 <div align="left">
     <p>
-        I'm Jun, an AI/ML and cybersec enthusiast, and an esports fanatic. I'm a CS major @ Georgia Tech! <br>
-        I'm currently building nyanro!! The waitlisting is now live at <a href="https://www.nyanro.space">nyanro.space</a>! <br>
-        Exhaustively trying to bring nyanro's platform's figma wireframe to life!!<br>
-        If you want to talk or have any questions abt nyanro, shoot me at jun00c[at]nyanro[dot]space or jun00c on discord!! <br>
+        i'm Jun, an AI/ML and cybersec enthusiast, and an esports fanatic. I'm a CS @ Georgia Tech! <br>
+        i'm currently building nyanro!! a platform for small indie creators to get exposure.<br>
+        also working on a valorant version of kalshi... it's live at <a href="https://instalockd.jun002c.xyz"></a> <br> 
+        if you want to talk or have any questions, shoot me at jun18shadow@gmail.com or jun002c on discord!! <br>
         <br>
         <br>
-        Besides nyanro, I'm also interested in Generative AI, along with pentesting Windows Defense vulnerabilities :) <br>
+        i'm also interested in gen ai, along with pentesting Windows Defense vulnerabilities lol :P <br>
         <br>
-        I also (used to) stream - mainly Valorant - and make music too! (Twitch, notice me!!! T^T)
+        i also (used to) stream (mainly valorant) and make (attempt) music too. i really want to get back into streaming and making content again ngl (._.)
     </p>
 </div>
 <p align="center">
