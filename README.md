@@ -33,7 +33,7 @@
       />
   </a>
 
-  <img
+<!--  <img
     src="https://github-readme-stats.vercel.app/api?username=jun002c&show_icons=true&layout=compact&theme=midnight-purple&hide_border=true&hide_title=false"
     alt="GitHub Most Used Languages"
     align="center"
@@ -45,6 +45,7 @@
     align="center"
     style="width:450px;"
   />
+-->
 </div>
   
 <div align="center">
